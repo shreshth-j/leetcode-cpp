@@ -62,4 +62,16 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
