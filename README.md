@@ -49,6 +49,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreshth-j/leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
@@ -77,4 +78,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
