@@ -55,6 +55,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreshth-j/leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/shreshth-j/leetcode-cpp/tree/master/0724-find-pivot-index) |
+| [1470-shuffle-the-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
