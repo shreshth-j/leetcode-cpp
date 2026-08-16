@@ -32,11 +32,13 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0232-implement-queue-using-stacks](https://github.com/shreshth-j/leetcode-cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreshth-j/leetcode-cpp/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shreshth-j/leetcode-cpp/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreshth-j/leetcode-cpp/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shreshth-j/leetcode-cpp/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/shreshth-j/leetcode-cpp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shreshth-j/leetcode-cpp/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -46,6 +48,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/shreshth-j/leetcode-cpp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shreshth-j/leetcode-cpp/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
@@ -73,6 +76,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0042-trapping-rain-water](https://github.com/shreshth-j/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreshth-j/leetcode-cpp/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shreshth-j/leetcode-cpp/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
