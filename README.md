@@ -57,6 +57,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0042-trapping-rain-water](https://github.com/shreshth-j/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreshth-j/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreshth-j/leetcode-cpp/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/shreshth-j/leetcode-cpp/tree/master/0724-find-pivot-index) |
@@ -97,10 +98,12 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreshth-j/leetcode-cpp/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +112,12 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreshth-j/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
