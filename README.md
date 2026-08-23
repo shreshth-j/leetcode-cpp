@@ -65,6 +65,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0724-find-pivot-index](https://github.com/shreshth-j/leetcode-cpp/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/shreshth-j/leetcode-cpp/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreshth-j/leetcode-cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shreshth-j/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreshth-j/leetcode-cpp/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +132,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
