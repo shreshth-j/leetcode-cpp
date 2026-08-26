@@ -69,6 +69,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shreshth-j/leetcode-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/shreshth-j/leetcode-cpp/tree/master/1528-shuffle-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,6 +97,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
+| [1528-shuffle-string](https://github.com/shreshth-j/leetcode-cpp/tree/master/1528-shuffle-string) |
 ## Simulation
 |  |
 | ------- |
