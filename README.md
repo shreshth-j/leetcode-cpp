@@ -70,6 +70,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [1470-shuffle-the-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/shreshth-j/leetcode-cpp/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/shreshth-j/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +139,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shreshth-j/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
