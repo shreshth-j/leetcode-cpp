@@ -72,6 +72,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [1480-running-sum-of-1d-array](https://github.com/shreshth-j/leetcode-cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/shreshth-j/leetcode-cpp/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/shreshth-j/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/shreshth-j/leetcode-cpp/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +105,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/shreshth-j/leetcode-cpp/tree/master/1920-build-array-from-permutation) |
 ## Sorting
 |  |
 | ------- |
