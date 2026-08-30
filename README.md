@@ -101,6 +101,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreshth-j/leetcode-cpp/tree/master/0412-fizz-buzz) |
 | [1528-shuffle-string](https://github.com/shreshth-j/leetcode-cpp/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/shreshth-j/leetcode-cpp/tree/master/1859-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 | [0414-third-maximum-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shreshth-j/leetcode-cpp/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreshth-j/leetcode-cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/shreshth-j/leetcode-cpp/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,4 +149,8 @@ To strengthen my Data Structures & Algorithms skills by consistently solving Lee
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shreshth-j/leetcode-cpp/tree/master/1672-richest-customer-wealth) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/shreshth-j/leetcode-cpp/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
